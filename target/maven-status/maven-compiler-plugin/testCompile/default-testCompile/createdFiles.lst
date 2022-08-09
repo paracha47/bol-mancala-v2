@@ -1,0 +1,7 @@
+com\bol\mancalagame\controller\GameControllerIntegrationTests.class
+com\bol\mancalagame\rule\ChangePlayerRuleTests.class
+com\bol\mancalagame\rule\GameOverRuleTests.class
+com\bol\mancalagame\service\SowServiceTests.class
+com\bol\mancalagame\MancalaGameApplicationTests.class
+com\bol\mancalagame\service\GameServiceTests.class
+com\bol\mancalagame\rule\CheckLastStoneInEmptyPitRuleTests.class

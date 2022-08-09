@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.bol.mancalagame</groupId>
-	<artifactId>bol-mancala-game</artifactId>
+	<artifactId>bol-mancala-game-v2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>bol-mancala-game</name>
 	<description>Mancala game bol test assignment</description>
