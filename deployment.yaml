@@ -14,4 +14,5 @@ spec:
     spec:
       containers:
         - name: bol-mancala-image
-          image: europe-central2-docker.pkg.dev/clever-form-358920/bol-mancala-repo/bol-mancala-image
+          image: europe-central2-docker.pkg.dev/clever-form-358920/bol-mancala-repo/bol-mancala-image@sha256:ad428e836592173282b1c6493255f84d77f31d812c8088281a9c4959955fb60d
+          
